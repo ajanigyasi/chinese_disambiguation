@@ -5,9 +5,10 @@ The Association for Computational Linguistics (ACL) is the premier international
 The idea behind this paper is to show how jointly learned character and word embeddings can capture semantic contribution of characters to words using a similarity-based method. In the Chinese language, characters and words have different part-of-speech labels (e.g. noun, verb, etc.) and yet express the same meaning. Further, characters carry more ambiguity weight than words. To address this issue, the paper proposes multi-prototype character embeddings where different meanings of characters will be represented by different embeddings. Please check out my Jupyter Notebook to understand this paper's functionality and applications. Don't hesitate to correct my code if you know a simplier route to get results.
 
  #### Paper Sources
-*[SCWE](http://www.aclweb.org/anthology/N16-1119)
--[2016 accepted papers](http://naacl.org/naacl-hlt-2016/accepted_papers.html)
+* [SCWE](http://www.aclweb.org/anthology/N16-1119)
+* [2016 accepted papers](http://naacl.org/naacl-hlt-2016/accepted_papers.html)
 
 #### Data Sources
-*[Chinese Wiki Dump](http://download.wikipedia.com/zhwiki/)
+* [Chinese Wiki Dump](http://download.wikipedia.com/zhwiki/)
 
+ 
