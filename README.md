@@ -6,7 +6,7 @@ The idea behind this paper is to show how jointly learned character and word emb
 
  #### Paper Sources
 *[SCWE](http://www.aclweb.org/anthology/N16-1119)
-*[2016 accepted papers](http://naacl.org/naacl-hlt-2016/accepted_papers.html)
+-[2016 accepted papers](http://naacl.org/naacl-hlt-2016/accepted_papers.html)
 
 #### Data Sources
 *[Chinese Wiki Dump](http://download.wikipedia.com/zhwiki/)
